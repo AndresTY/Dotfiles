@@ -1,0 +1,10 @@
+configuration {
+
+	modi : "drun,combi,keys,filebrowser";
+	font: "hack 12";
+	combi-modi: "window,drun,ssh";
+	icon-theme: "Papirus";
+	show-icons: true;
+
+}
+@theme "/usr/share/rofi/themes/DarkBlue.rasi"
